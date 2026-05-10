@@ -1,0 +1,22 @@
+{
+  "name": "pre_entrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielalazazro/Pre_entrega_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Danielalazazro/Pre_entrega_node/issues"
+  },
+  "homepage": "https://github.com/Danielalazazro/Pre_entrega_node#readme"
+}
